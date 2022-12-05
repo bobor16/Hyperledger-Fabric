@@ -69,3 +69,5 @@ peer chaincode query -C LOCATION -n basic -c '{"Args":["GetAllAssets"]}'
 ```
 With any luck, the output should be something like the following snipped
 
+![image](https://user-images.githubusercontent.com/32191711/205710107-1414712f-2259-42a2-a6c5-35e6ec7b2c51.png)
+
