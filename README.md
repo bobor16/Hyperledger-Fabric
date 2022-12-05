@@ -67,3 +67,5 @@ The voting result can be seen by querying the `GetAllAssets` and changing the `L
 ```
 peer chaincode query -C LOCATION -n basic -c '{"Args":["GetAllAssets"]}'
 ```
+With any luck, the output should be something like the following snipped
+
